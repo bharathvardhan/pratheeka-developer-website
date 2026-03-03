@@ -813,6 +813,15 @@ h3 {
   line-height: 1.6;
 }
 
+.project-brochure {
+  margin: 1rem 0 0;
+}
+.project-brochure .btn-brochure {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
 .project-elevation {
   margin: 0 0 2.5rem;
   border-radius: 18px;

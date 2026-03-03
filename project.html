@@ -107,6 +107,10 @@
         if (b.address) {
           html += '<p class="project-address"><strong>Address:</strong> ' + escapeHtml(b.address) + "</p>";
         }
+        if (b.brochure) {
+          var brochurePath = folder + "/" + encodeURIComponent(b.brochure);
+          html += '<p class="project-brochure"><a href="' + brochurePath + '" class="btn btn-primary btn-brochure" download>Download brochure (PDF)</a></p>';
+        }
         html += "</header>";
 
         html += '<figure class="project-elevation">';

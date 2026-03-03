@@ -72,6 +72,7 @@ window.PRATHEEKA_BUILDINGS = {
     folder: "YASHODHA RESIDENCY UPCOMING",
     elevation: "YASHODHA residency ELEVATION 2.png",
     floorPlans: ["FLOOR PLANS.png"],
+    brochure: "yashoda residency e_brochure.pdf",
     address: "Sy No. 68/B, Road No. 4A, Suryanagar, Opp. V-PARK Hotel, Jagitial Road, Karimnagar – 505 001",
     status: "upcoming"
   }
