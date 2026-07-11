@@ -32,17 +32,6 @@ python3 -m http.server 8000
 
 Then open **http://localhost:8000** in your browser.
 
-## Deploy with GitHub Pages
-
-1. Create a new repository on GitHub (e.g. `pratheeka-website`).
-2. Push this project to it (all files and building folders; keep the same structure).
-3. In the repo: **Settings → Pages**.
-4. Under **Source** choose **Deploy from a branch**.
-5. Branch: **main** (or **master**), folder: **/ (root)**. Save.
-6. The site will be at `https://<your-username>.github.io/<repo-name>/`.
-
-If the repo is named `pratheeka-website`, the URL will be like:  
-`https://yourusername.github.io/pratheeka-website/`
 
 ## Customize content
 
